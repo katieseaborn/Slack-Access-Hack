@@ -15,6 +15,7 @@ Slack Access Hack is a messy, always in-progress attempt to make Slack accessibl
 After installing Google Chrome and the User JavaScript and CSS extension, open the extension. You'll need to create a new "Rule" and copy over the code from GitHub. You can call the rule anything you'd like. I call mine "Accessible."
 
 Make sure the rule is active. The toggle on the rule in the left sidebar should be on.
+![Toggle should be on](toggle.png "Enable the rule")
 
 Click on the rule to open it, if you haven't already.
 
@@ -37,6 +38,8 @@ Use the Save button or Ctrl-S/Cmd-S.
 
 Then go to your Slack client, reload, and be free!
 [https://app.slack.com/client](https://app.slack.com/client) :rocket:
+
+:warning: Please note that every time the code is updated on GitHub, you'll have to re-copy over the new version into the extension, deleting the old code first.
 
 ## License
 
